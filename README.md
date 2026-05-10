@@ -27,11 +27,11 @@
 ```typescript
 const gabriel = {
   idade:       20,
-  cidade:      "Suzano, SP 🇧🇷",
-  formação:    "Ciência da Computação — 5º semestre",
+  cidade:      "Suzano, SP - Brasil",
+  formacao:    "Ciencia da Computacao — 5 semestre",
   foco:        ["React Native", "Expo", "TypeScript"],
-  construindo: "FinFlow — app de finanças pessoais com IA",
-  status:      "🟢 Open to Work",
+  construindo: "FinFlow — app de financas pessoais com IA",
+  status:      "Open to Work",
 };
 ```
 
@@ -77,41 +77,13 @@ const gabriel = {
 
 ---
 
-## `04 /` Metas & Objetivos
-
-```
- 2025 ─────────────────────────────────────────────────────────
-  ✅  Iniciar o desenvolvimento do FinFlow
-  ✅  Definir arquitetura e planos de monetização
-  🔄  Lançar o FinFlow na Play Store
-  🔄  Conseguir meu primeiro estágio em desenvolvimento
-  ⏳  Contribuir para um projeto open source
-
- 2026 ─────────────────────────────────────────────────────────
-  ⏳  Dominar TypeScript avançado
-  ⏳  Aprender backend (Node.js ou Python)
-  ⏳  Crescer o FinFlow para 100 usuários ativos
-  ⏳  Construir um portfólio com 5+ projetos publicados
-```
-
----
-
-## `05 /` Atividade no GitHub
+## `04 /` Atividade no GitHub
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GbrielH&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" />
 
 </div>
-
----
-
-## `06 /` Curiosidades
-
-- 🎮 Gosto de game dev nas horas vagas
-- 📱 Já construí um Tetris funcional em HTML do zero
-- 💡 Penso em produto tanto quanto em código
-- ☕ Resolvo bugs melhor de madrugada
 
 ---
 
