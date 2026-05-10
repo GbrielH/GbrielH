@@ -24,15 +24,16 @@
 
 ## `01 /` Sobre mim
 
-```typescript
-const gabriel = {
-  idade:       20,
-  cidade:      "Suzano, SP - Brasil",
-  formacao:    "Ciencia da Computacao — 5 semestre",
-  foco:        ["React Native", "Expo", "TypeScript"],
-  construindo: "FinFlow — app de financas pessoais com IA",
-  status:      "Open to Work",
-};
+```json
+{
+  "nome":        "Gabriel Henrique",
+  "idade":       20,
+  "cidade":      "Suzano, SP - Brasil",
+  "formacao":    "Ciencia da Computacao - 5 semestre",
+  "foco":        ["React Native", "Expo", "TypeScript"],
+  "construindo": "FinFlow - app de financas pessoais com IA",
+  "status":      "Open to Work"
+}
 ```
 
 ---
