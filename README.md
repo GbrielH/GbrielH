@@ -1,15 +1,4 @@
-<div align="center">
-
-```
- ██████╗  █████╗ ██████╗ ██████╗ ██╗███████╗██╗     
-██╔════╝ ██╔══██╗██╔══██╗██╔══██╗██║██╔════╝██║     
-██║  ███╗███████║██████╔╝██████╔╝██║█████╗  ██║     
-██║   ██║██╔══██║██╔══██╗██╔══██╗██║██╔══╝  ██║     
-╚██████╔╝██║  ██║██████╔╝██║  ██║██║███████╗███████╗
- ╚═════╝ ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝╚══════╝
-```
-
-### Gabriel Henrique
+# Gabriel Henrique
 **Desenvolvedor Mobile · Estudante de Ciência da Computação**
 
 *Construindo produtos que as pessoas realmente usam.*
@@ -62,11 +51,11 @@ Tenho 19 anos e curso **Ciência da Computação** desde 2024. Tenho foco em des
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GbrielH&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GbrielH&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&cache_seconds=1800)](https://github.com/GbrielH)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GbrielH&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GbrielH&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&cache_seconds=1800)](https://github.com/GbrielH)
 
-![Streak](https://streak-stats.demolab.com?user=GbrielH&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)
+[![Streak](https://git.io/streak-stats?user=GbrielH&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff)](https://github.com/GbrielH)
 
 </div>
 
