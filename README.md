@@ -24,17 +24,12 @@
 
 ## `01 /` Sobre mim
 
-```json
-{
-  "nome":        "Gabriel Henrique",
-  "idade":       20,
-  "cidade":      "Suzano, SP - Brasil",
-  "formacao":    "Ciencia da Computacao - 5 semestre",
-  "foco":        ["React Native", "Expo", "TypeScript"],
-  "construindo": "FinFlow - app de financas pessoais com IA",
-  "status":      "Open to Work"
-}
-```
+Tenho 20 anos e curso **Ciência da Computação** (5º semestre) em Suzano, SP. Tenho foco em desenvolvimento mobile e construo produtos pensando em experiência do usuário e escalabilidade. Acredito que bom software nasce da combinação entre clareza técnica e empatia com quem usa.
+
+![Idade](https://img.shields.io/badge/Idade-20_anos-1f6feb?style=flat-square)
+![Localização](https://img.shields.io/badge/Cidade-Suzano,_SP-1f6feb?style=flat-square&logo=googlemaps&logoColor=white)
+![Faculdade](https://img.shields.io/badge/Faculdade-5%C2%BA_semestre_CC-1f6feb?style=flat-square&logo=googlescholar&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Open_to_Work-2ea44f?style=flat-square)
 
 ---
 
