@@ -18,8 +18,6 @@ Desenvolvedor de Software com foco em backend Java, Spring Boot e APIs REST. Tam
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=GbrielH\&style=flat-square\&color=1f6feb\&label=VISITAS+AO+PERFIL)
-
 </div>
 
 ---
