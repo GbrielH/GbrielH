@@ -164,17 +164,7 @@ A **Quimera Tech** reúne meus serviços de criação de sites e soluções digi
 
 ---
 
-## `05 /` Atividade no GitHub
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=GbrielH&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true" />
-
-</div>
-
----
-
-## `06 /` Objetivos profissionais
+## `05 /` Objetivos profissionais
 
 Busco uma oportunidade de **estágio ou posição júnior** em desenvolvimento backend Java/Spring Boot ou mobile com React Native, onde eu possa:
 
