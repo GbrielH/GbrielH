@@ -28,7 +28,7 @@ Desenvolvedor de Software com foco em backend Java, Spring Boot e APIs REST. Tam
 
 ```ts
 const gabriel = {
-  idade: 20,
+  idade: 21,
   localização: "Suzano, SP",
   formação: "Ciência da Computação — 5º semestre",
   foco: ["Backend Java", "APIs REST", "Desenvolvimento Mobile"],
